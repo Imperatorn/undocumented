@@ -6,5 +6,6 @@
 	"description": "Provides some declarations to undocumented Windows API functions",
 	"license": "Creative Commons Zero v1.0 Universal",
 	"name": "undocumented",
-	"targetType": "library"
+	"targetType": "library",
+	"libs": ["dnsapi"]
 }
