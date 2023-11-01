@@ -7,8 +7,9 @@ import core.sys.windows.windows;
 
 struct __m128i
 {
-    ulong[2] data;  // 2 x 64-bit = 128-bit
+    ulong[2] data;
 }
+
 import core.stdc.stddef: wchar_t;
 int dynamic_initializer_for__g_srwDnsRpcBindingLock__();
 int dynamic_initializer_for__g_csNetworkStatus__();
