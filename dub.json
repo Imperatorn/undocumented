@@ -3,7 +3,7 @@
 		"johan.forsberg"
 	],
 	"copyright": "Copyright © 2023, johan.forsberg",
-	"description": "Provides some declarations to undocumented Windows API functionsdu",
+	"description": "Provides some declarations to undocumented Windows API functions",
 	"license": "Creative Commons Zero v1.0 Universal",
 	"name": "undocumented",
 	"targetType": "library"
