@@ -1,9 +1,9 @@
 module dnsapi;
 
+pragma(lib, "dnsapi");
+
 @nogc nothrow:
 extern(C): __gshared:
-
-pragma(lib, "dnsapi");
 
 import core.sys.windows.windef;
 import core.sys.windows.winuser;
