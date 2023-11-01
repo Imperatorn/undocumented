@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"johan.forsberg"
+	],
+	"copyright": "Copyright © 2023, johan.forsberg",
+	"description": "Provides some declarations to undocumented Windows API functionsdu",
+	"license": "Creative Commons Zero v1.0 Universal",
+	"name": "undocumented"
+}
