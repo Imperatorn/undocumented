@@ -1,7 +1,5 @@
 module dnsapi;
 
-pragma(lib, "dnsapi");
-
 @nogc nothrow:
 extern(C): __gshared:
 
